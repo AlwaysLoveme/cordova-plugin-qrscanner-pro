@@ -2,7 +2,9 @@
 [![Dependency Status](https://david-dm.org/bitpay/cordova-plugin-qrscanner.svg)](https://david-dm.org/bitpay/cordova-plugin-qrscanner)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-# cordova-plugin-qrscanner
+# cordova-plugin-qrscanner-pro
+在“cordova-plugin-qrscanner”原插件基础上增加对条形码扫码支持，此插件亦可与Capacitor一起使用，无兼容性问题，如果无法显示相机，请检查并确保APP背景、当前页背景、扫描页背景是透明的。
+
 A fast, energy efficient, highly-configurable QR code scanner for Cordova apps – available for the iOS, Android, Windows, and browser platforms.
 
 QRScanner's native camera preview is rendered behind the Cordova app's webview, and QRScanner provides `show` and `hide` methods to toggle the transparency of the webview's background. This allows for a completely HTML/CSS/JS interface to be built inside the webview to control the scanner.
