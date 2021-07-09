@@ -38,7 +38,7 @@ Simply adding this plugin to the Cordova project will make the `window.QRScanner
 
 ### Usage
 
-There are two primary steps to integrating `cordova-plugin-qrscanner`.
+There are two primary steps to integrating `@zhuxian/cordova-plugin-qrscanner-pro`.
 
 #### 1. Get Permission Early (Optional)
 
